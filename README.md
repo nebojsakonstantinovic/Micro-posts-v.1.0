@@ -22,6 +22,8 @@ To serve in the browser  - Runs webpack-dev-server
 $ npm start
 ```
 
+You also need to install an run json-server(https://github.com/typicode/json-server)
+
 ### Build
 Compile and build
 
